@@ -1,0 +1,1308 @@
+[22-02-24 20:22:22] - [INFO] - [start_polling: 527 - Start polling]
+[22-02-24 20:22:22] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 20:23:43] - [INFO] - [feed_update: 172 - Update id=70308568 is handled. Duration 233 ms by bot id=5825302753]
+[22-02-24 20:23:44] - [INFO] - [feed_update: 172 - Update id=70308569 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 20:23:46] - [INFO] - [feed_update: 172 - Update id=70308570 is handled. Duration 295 ms by bot id=5825302753]
+[22-02-24 20:23:50] - [INFO] - [feed_update: 172 - Update id=70308571 is handled. Duration 266 ms by bot id=5825302753]
+[22-02-24 20:23:53] - [INFO] - [feed_update: 172 - Update id=70308572 is handled. Duration 110 ms by bot id=5825302753]
+[22-02-24 20:24:00] - [INFO] - [feed_update: 172 - Update id=70308573 is handled. Duration 217 ms by bot id=5825302753]
+[22-02-24 20:24:02] - [INFO] - [feed_update: 172 - Update id=70308574 is handled. Duration 875 ms by bot id=5825302753]
+[22-02-24 20:25:15] - [INFO] - [start_polling: 554 - Polling stopped]
+[22-02-24 20:25:15] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 20:25:18] - [INFO] - [start_polling: 527 - Start polling]
+[22-02-24 20:25:18] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 20:25:20] - [INFO] - [feed_update: 172 - Update id=70308575 is handled. Duration 452 ms by bot id=5825302753]
+[22-02-24 20:25:23] - [INFO] - [feed_update: 172 - Update id=70308576 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 20:25:32] - [INFO] - [feed_update: 172 - Update id=70308577 is handled. Duration 469 ms by bot id=5825302753]
+[22-02-24 20:25:35] - [INFO] - [feed_update: 172 - Update id=70308578 is handled. Duration 641 ms by bot id=5825302753]
+[22-02-24 20:25:36] - [INFO] - [feed_update: 172 - Update id=70308579 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 20:25:40] - [INFO] - [feed_update: 172 - Update id=70308580 is handled. Duration 157 ms by bot id=5825302753]
+[22-02-24 20:25:45] - [INFO] - [feed_update: 172 - Update id=70308581 is handled. Duration 436 ms by bot id=5825302753]
+[22-02-24 20:25:52] - [INFO] - [feed_update: 172 - Update id=70308582 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 20:25:53] - [INFO] - [feed_update: 172 - Update id=70308583 is handled. Duration 389 ms by bot id=5825302753]
+[22-02-24 20:25:56] - [INFO] - [feed_update: 172 - Update id=70308584 is handled. Duration 264 ms by bot id=5825302753]
+[22-02-24 20:25:59] - [INFO] - [feed_update: 172 - Update id=70308585 is handled. Duration 108 ms by bot id=5825302753]
+[22-02-24 20:26:00] - [INFO] - [feed_update: 172 - Update id=70308586 is handled. Duration 92 ms by bot id=5825302753]
+[22-02-24 20:26:02] - [INFO] - [feed_update: 172 - Update id=70308587 is handled. Duration 344 ms by bot id=5825302753]
+[22-02-24 20:26:11] - [INFO] - [feed_update: 172 - Update id=70308588 is handled. Duration 266 ms by bot id=5825302753]
+[22-02-24 20:26:13] - [INFO] - [feed_update: 172 - Update id=70308589 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 20:26:16] - [INFO] - [feed_update: 172 - Update id=70308590 is handled. Duration 516 ms by bot id=5825302753]
+[22-02-24 20:26:18] - [INFO] - [feed_update: 172 - Update id=70308591 is handled. Duration 172 ms by bot id=5825302753]
+[22-02-24 20:26:20] - [INFO] - [feed_update: 172 - Update id=70308592 is handled. Duration 295 ms by bot id=5825302753]
+[22-02-24 20:26:24] - [INFO] - [feed_update: 172 - Update id=70308593 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 20:26:26] - [INFO] - [feed_update: 172 - Update id=70308594 is handled. Duration 405 ms by bot id=5825302753]
+[22-02-24 20:26:34] - [INFO] - [feed_update: 172 - Update id=70308595 is handled. Duration 233 ms by bot id=5825302753]
+[22-02-24 20:26:43] - [INFO] - [feed_update: 172 - Update id=70308596 is handled. Duration 327 ms by bot id=5825302753]
+[22-02-24 20:26:45] - [INFO] - [feed_update: 172 - Update id=70308597 is handled. Duration 547 ms by bot id=5825302753]
+[22-02-24 20:26:47] - [INFO] - [feed_update: 172 - Update id=70308598 is handled. Duration 172 ms by bot id=5825302753]
+[22-02-24 20:26:48] - [INFO] - [feed_update: 172 - Update id=70308599 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 20:26:50] - [INFO] - [feed_update: 172 - Update id=70308600 is handled. Duration 391 ms by bot id=5825302753]
+[22-02-24 21:01:30] - [INFO] - [start_polling: 554 - Polling stopped]
+[22-02-24 21:01:31] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:01:34] - [INFO] - [start_polling: 527 - Start polling]
+[22-02-24 21:01:34] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:02:52] - [INFO] - [feed_update: 172 - Update id=70308601 is handled. Duration 390 ms by bot id=5825302753]
+[22-02-24 21:02:54] - [INFO] - [feed_update: 172 - Update id=70308602 is handled. Duration 359 ms by bot id=5825302753]
+[22-02-24 21:02:58] - [INFO] - [feed_update: 172 - Update id=70308603 is handled. Duration 500 ms by bot id=5825302753]
+[22-02-24 21:02:59] - [INFO] - [feed_update: 172 - Update id=70308604 is handled. Duration 265 ms by bot id=5825302753]
+[22-02-24 21:03:01] - [INFO] - [feed_update: 172 - Update id=70308605 is handled. Duration 186 ms by bot id=5825302753]
+[22-02-24 21:03:06] - [INFO] - [feed_update: 172 - Update id=70308606 is handled. Duration 765 ms by bot id=5825302753]
+[22-02-24 21:04:01] - [INFO] - [feed_update: 172 - Update id=70308607 is handled. Duration 296 ms by bot id=5825302753]
+[22-02-24 21:04:03] - [INFO] - [feed_update: 172 - Update id=70308608 is handled. Duration 421 ms by bot id=5825302753]
+[22-02-24 21:04:04] - [INFO] - [feed_update: 172 - Update id=70308609 is handled. Duration 657 ms by bot id=5825302753]
+[22-02-24 21:04:06] - [INFO] - [feed_update: 172 - Update id=70308610 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:04:08] - [INFO] - [feed_update: 172 - Update id=70308611 is handled. Duration 171 ms by bot id=5825302753]
+[22-02-24 21:04:10] - [INFO] - [feed_update: 172 - Update id=70308612 is handled. Duration 500 ms by bot id=5825302753]
+[22-02-24 21:05:03] - [INFO] - [feed_update: 172 - Update id=70308613 is handled. Duration 594 ms by bot id=5825302753]
+[22-02-24 21:05:05] - [INFO] - [feed_update: 172 - Update id=70308614 is handled. Duration 342 ms by bot id=5825302753]
+[22-02-24 21:05:08] - [INFO] - [feed_update: 172 - Update id=70308615 is handled. Duration 875 ms by bot id=5825302753]
+[22-02-24 21:05:09] - [INFO] - [feed_update: 172 - Update id=70308616 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:05:12] - [INFO] - [feed_update: 172 - Update id=70308617 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:05:15] - [INFO] - [feed_update: 172 - Update id=70308618 is handled. Duration 422 ms by bot id=5825302753]
+[22-02-24 21:05:39] - [INFO] - [feed_update: 172 - Update id=70308619 is handled. Duration 328 ms by bot id=5825302753]
+[22-02-24 21:05:41] - [INFO] - [feed_update: 172 - Update id=70308620 is handled. Duration 297 ms by bot id=5825302753]
+[22-02-24 21:05:45] - [INFO] - [feed_update: 172 - Update id=70308621 is handled. Duration 766 ms by bot id=5825302753]
+[22-02-24 21:05:46] - [INFO] - [feed_update: 172 - Update id=70308622 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:05:48] - [INFO] - [feed_update: 172 - Update id=70308623 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:05:50] - [INFO] - [feed_update: 172 - Update id=70308624 is handled. Duration 405 ms by bot id=5825302753]
+[22-02-24 21:06:38] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой]
+[22-02-24 21:06:38] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[22-02-24 21:06:49] - [INFO] - [_listen_updates: 233 - Connection established (tryings = 1, bot id = 5825302753)]
+[22-02-24 21:09:19] - [INFO] - [feed_update: 172 - Update id=70308625 is handled. Duration 297 ms by bot id=5825302753]
+[22-02-24 21:09:23] - [INFO] - [feed_update: 172 - Update id=70308626 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:09:25] - [INFO] - [feed_update: 172 - Update id=70308627 is handled. Duration 265 ms by bot id=5825302753]
+[22-02-24 21:09:28] - [INFO] - [feed_update: 172 - Update id=70308628 is handled. Duration 172 ms by bot id=5825302753]
+[22-02-24 21:09:33] - [INFO] - [feed_update: 172 - Update id=70308629 is handled. Duration 140 ms by bot id=5825302753]
+[22-02-24 21:09:36] - [INFO] - [feed_update: 172 - Update id=70308630 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:09:38] - [INFO] - [feed_update: 172 - Update id=70308631 is handled. Duration 157 ms by bot id=5825302753]
+[22-02-24 21:09:41] - [INFO] - [feed_update: 172 - Update id=70308632 is handled. Duration 828 ms by bot id=5825302753]
+[22-02-24 21:09:43] - [INFO] - [feed_update: 172 - Update id=70308633 is handled. Duration 265 ms by bot id=5825302753]
+[22-02-24 21:09:47] - [INFO] - [feed_update: 172 - Update id=70308634 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:09:50] - [INFO] - [feed_update: 172 - Update id=70308635 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:09:53] - [INFO] - [feed_update: 172 - Update id=70308636 is handled. Duration 171 ms by bot id=5825302753]
+[22-02-24 21:09:55] - [INFO] - [feed_update: 172 - Update id=70308637 is handled. Duration 484 ms by bot id=5825302753]
+[22-02-24 21:09:57] - [INFO] - [feed_update: 172 - Update id=70308638 is handled. Duration 297 ms by bot id=5825302753]
+[22-02-24 21:09:59] - [INFO] - [feed_update: 172 - Update id=70308639 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:10:00] - [INFO] - [feed_update: 172 - Update id=70308640 is handled. Duration 92 ms by bot id=5825302753]
+[22-02-24 21:10:05] - [INFO] - [feed_update: 172 - Update id=70308641 is handled. Duration 266 ms by bot id=5825302753]
+[22-02-24 21:10:12] - [INFO] - [feed_update: 172 - Update id=70308642 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:10:15] - [INFO] - [feed_update: 172 - Update id=70308643 is handled. Duration 264 ms by bot id=5825302753]
+[22-02-24 21:10:17] - [INFO] - [feed_update: 172 - Update id=70308644 is handled. Duration 500 ms by bot id=5825302753]
+[22-02-24 21:10:19] - [INFO] - [feed_update: 172 - Update id=70308645 is handled. Duration 453 ms by bot id=5825302753]
+[22-02-24 21:10:21] - [INFO] - [feed_update: 172 - Update id=70308646 is handled. Duration 282 ms by bot id=5825302753]
+[22-02-24 21:10:24] - [INFO] - [feed_update: 172 - Update id=70308647 is handled. Duration 78 ms by bot id=5825302753]
+[22-02-24 21:10:26] - [INFO] - [feed_update: 172 - Update id=70308648 is handled. Duration 313 ms by bot id=5825302753]
+[22-02-24 21:10:27] - [INFO] - [feed_update: 172 - Update id=70308649 is handled. Duration 250 ms by bot id=5825302753]
+[22-02-24 21:10:29] - [INFO] - [feed_update: 172 - Update id=70308650 is handled. Duration 250 ms by bot id=5825302753]
+[22-02-24 21:10:31] - [INFO] - [feed_update: 172 - Update id=70308651 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:10:34] - [INFO] - [feed_update: 172 - Update id=70308652 is handled. Duration 61 ms by bot id=5825302753]
+[22-02-24 21:10:37] - [INFO] - [feed_update: 172 - Update id=70308653 is handled. Duration 108 ms by bot id=5825302753]
+[22-02-24 21:10:39] - [INFO] - [feed_update: 172 - Update id=70308654 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:10:41] - [INFO] - [feed_update: 172 - Update id=70308655 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:10:51] - [INFO] - [feed_update: 172 - Update id=70308656 is handled. Duration 219 ms by bot id=5825302753]
+[22-02-24 21:10:53] - [INFO] - [feed_update: 172 - Update id=70308657 is handled. Duration 77 ms by bot id=5825302753]
+[22-02-24 21:10:56] - [INFO] - [feed_update: 172 - Update id=70308658 is handled. Duration 110 ms by bot id=5825302753]
+[22-02-24 21:10:58] - [INFO] - [feed_update: 172 - Update id=70308659 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:11:03] - [INFO] - [feed_update: 172 - Update id=70308660 is handled. Duration 483 ms by bot id=5825302753]
+[22-02-24 21:11:06] - [INFO] - [feed_update: 172 - Update id=70308661 is handled. Duration 313 ms by bot id=5825302753]
+[22-02-24 21:11:09] - [INFO] - [feed_update: 172 - Update id=70308662 is handled. Duration 547 ms by bot id=5825302753]
+[22-02-24 21:11:14] - [INFO] - [feed_update: 172 - Update id=70308663 is handled. Duration 250 ms by bot id=5825302753]
+[22-02-24 21:11:17] - [INFO] - [feed_update: 172 - Update id=70308664 is handled. Duration 108 ms by bot id=5825302753]
+[22-02-24 21:11:20] - [INFO] - [feed_update: 172 - Update id=70308665 is handled. Duration 77 ms by bot id=5825302753]
+[22-02-24 21:11:23] - [INFO] - [feed_update: 172 - Update id=70308666 is handled. Duration 110 ms by bot id=5825302753]
+[22-02-24 21:11:25] - [INFO] - [feed_update: 172 - Update id=70308667 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:21:28] - [INFO] - [feed_update: 172 - Update id=70308668 is handled. Duration 313 ms by bot id=5825302753]
+[22-02-24 21:21:31] - [INFO] - [feed_update: 172 - Update id=70308669 is handled. Duration 563 ms by bot id=5825302753]
+[22-02-24 21:22:27] - [INFO] - [feed_update: 172 - Update id=70308670 is handled. Duration 313 ms by bot id=5825302753]
+[22-02-24 21:22:29] - [INFO] - [feed_update: 172 - Update id=70308671 is handled. Duration 328 ms by bot id=5825302753]
+[22-02-24 21:22:31] - [INFO] - [feed_update: 172 - Update id=70308672 is handled. Duration 421 ms by bot id=5825302753]
+[22-02-24 21:22:33] - [INFO] - [feed_update: 172 - Update id=70308673 is handled. Duration 297 ms by bot id=5825302753]
+[22-02-24 21:22:38] - [INFO] - [feed_update: 172 - Update id=70308674 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:22:44] - [INFO] - [feed_update: 172 - Update id=70308675 is handled. Duration 234 ms by bot id=5825302753]
+[22-02-24 21:22:46] - [INFO] - [feed_update: 172 - Update id=70308676 is handled. Duration 375 ms by bot id=5825302753]
+[22-02-24 21:22:48] - [INFO] - [feed_update: 172 - Update id=70308677 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:22:49] - [INFO] - [feed_update: 172 - Update id=70308678 is handled. Duration 77 ms by bot id=5825302753]
+[22-02-24 21:22:52] - [INFO] - [feed_update: 172 - Update id=70308679 is handled. Duration 188 ms by bot id=5825302753]
+[22-02-24 21:22:58] - [INFO] - [feed_update: 172 - Update id=70308680 is handled. Duration 140 ms by bot id=5825302753]
+[22-02-24 21:23:00] - [INFO] - [feed_update: 172 - Update id=70308681 is handled. Duration 219 ms by bot id=5825302753]
+[22-02-24 21:23:09] - [INFO] - [feed_update: 172 - Update id=70308682 is handled. Duration 469 ms by bot id=5825302753]
+[22-02-24 21:23:12] - [INFO] - [feed_update: 172 - Update id=70308683 is handled. Duration 203 ms by bot id=5825302753]
+[22-02-24 21:23:16] - [INFO] - [feed_update: 172 - Update id=70308684 is handled. Duration 469 ms by bot id=5825302753]
+[22-02-24 21:27:08] - [INFO] - [feed_update: 172 - Update id=70308685 is handled. Duration 390 ms by bot id=5825302753]
+[22-02-24 21:27:10] - [INFO] - [feed_update: 172 - Update id=70308686 is handled. Duration 530 ms by bot id=5825302753]
+[22-02-24 21:27:12] - [INFO] - [feed_update: 172 - Update id=70308687 is handled. Duration 344 ms by bot id=5825302753]
+[22-02-24 21:27:14] - [INFO] - [feed_update: 172 - Update id=70308688 is handled. Duration 140 ms by bot id=5825302753]
+[22-02-24 21:27:16] - [INFO] - [feed_update: 172 - Update id=70308689 is handled. Duration 109 ms by bot id=5825302753]
+[22-02-24 21:27:19] - [INFO] - [feed_update: 172 - Update id=70308690 is handled. Duration 140 ms by bot id=5825302753]
+[22-02-24 21:27:24] - [INFO] - [feed_update: 172 - Update id=70308691 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:27:33] - [INFO] - [feed_update: 172 - Update id=70308692 is handled. Duration 234 ms by bot id=5825302753]
+[22-02-24 21:27:35] - [INFO] - [feed_update: 172 - Update id=70308693 is handled. Duration 311 ms by bot id=5825302753]
+[22-02-24 21:27:38] - [INFO] - [feed_update: 172 - Update id=70308694 is handled. Duration 188 ms by bot id=5825302753]
+[22-02-24 21:27:41] - [INFO] - [feed_update: 172 - Update id=70308695 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:27:44] - [INFO] - [feed_update: 172 - Update id=70308696 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:27:45] - [INFO] - [feed_update: 172 - Update id=70308697 is handled. Duration 109 ms by bot id=5825302753]
+[22-02-24 21:28:12] - [INFO] - [start_polling: 554 - Polling stopped]
+[22-02-24 21:28:13] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:28:15] - [INFO] - [start_polling: 527 - Start polling]
+[22-02-24 21:28:15] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:28:17] - [INFO] - [feed_update: 172 - Update id=70308698 is handled. Duration 297 ms by bot id=5825302753]
+[22-02-24 21:28:20] - [INFO] - [feed_update: 172 - Update id=70308699 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:28:22] - [INFO] - [feed_update: 172 - Update id=70308700 is handled. Duration 625 ms by bot id=5825302753]
+[22-02-24 21:28:24] - [INFO] - [feed_update: 172 - Update id=70308701 is handled. Duration 561 ms by bot id=5825302753]
+[22-02-24 21:28:25] - [INFO] - [feed_update: 172 - Update id=70308702 is handled. Duration 77 ms by bot id=5825302753]
+[22-02-24 21:28:27] - [INFO] - [feed_update: 172 - Update id=70308703 is handled. Duration 109 ms by bot id=5825302753]
+[22-02-24 21:28:30] - [INFO] - [feed_update: 172 - Update id=70308704 is handled. Duration 140 ms by bot id=5825302753]
+[22-02-24 21:28:31] - [INFO] - [feed_update: 172 - Update id=70308705 is handled. Duration 77 ms by bot id=5825302753]
+[22-02-24 21:28:33] - [INFO] - [feed_update: 172 - Update id=70308706 is handled. Duration 250 ms by bot id=5825302753]
+[22-02-24 21:28:35] - [INFO] - [feed_update: 172 - Update id=70308707 is handled. Duration 219 ms by bot id=5825302753]
+[22-02-24 21:28:36] - [INFO] - [feed_update: 172 - Update id=70308708 is handled. Duration 328 ms by bot id=5825302753]
+[22-02-24 21:28:41] - [INFO] - [feed_update: 172 - Update id=70308709 is handled. Duration 186 ms by bot id=5825302753]
+[22-02-24 21:28:44] - [INFO] - [feed_update: 172 - Update id=70308710 is handled. Duration 186 ms by bot id=5825302753]
+[22-02-24 21:28:47] - [INFO] - [feed_update: 172 - Update id=70308711 is handled. Duration 750 ms by bot id=5825302753]
+[22-02-24 21:28:48] - [INFO] - [feed_update: 172 - Update id=70308712 is handled. Duration 217 ms by bot id=5825302753]
+[22-02-24 21:28:49] - [INFO] - [feed_update: 172 - Update id=70308713 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:28:51] - [INFO] - [feed_update: 172 - Update id=70308714 is handled. Duration 265 ms by bot id=5825302753]
+[22-02-24 21:28:52] - [INFO] - [feed_update: 172 - Update id=70308715 is handled. Duration 94 ms by bot id=5825302753]
+[22-02-24 21:28:54] - [INFO] - [feed_update: 172 - Update id=70308716 is handled. Duration 92 ms by bot id=5825302753]
+[22-02-24 21:28:57] - [INFO] - [feed_update: 172 - Update id=70308717 is handled. Duration 171 ms by bot id=5825302753]
+[22-02-24 21:28:58] - [INFO] - [feed_update: 172 - Update id=70308718 is handled. Duration 202 ms by bot id=5825302753]
+[22-02-24 21:32:43] - [INFO] - [feed_update: 172 - Update id=70308719 is handled. Duration 686 ms by bot id=5825302753]
+[22-02-24 21:32:46] - [INFO] - [feed_update: 172 - Update id=70308720 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:32:47] - [INFO] - [feed_update: 172 - Update id=70308721 is handled. Duration 327 ms by bot id=5825302753]
+[22-02-24 21:32:49] - [INFO] - [feed_update: 172 - Update id=70308722 is handled. Duration 484 ms by bot id=5825302753]
+[22-02-24 21:32:51] - [INFO] - [feed_update: 172 - Update id=70308723 is handled. Duration 155 ms by bot id=5825302753]
+[22-02-24 21:32:54] - [INFO] - [feed_update: 172 - Update id=70308724 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:32:55] - [INFO] - [feed_update: 172 - Update id=70308725 is handled. Duration 172 ms by bot id=5825302753]
+[22-02-24 21:32:59] - [INFO] - [feed_update: 172 - Update id=70308726 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:33:01] - [INFO] - [feed_update: 172 - Update id=70308727 is handled. Duration 671 ms by bot id=5825302753]
+[22-02-24 21:33:03] - [INFO] - [feed_update: 172 - Update id=70308728 is handled. Duration 640 ms by bot id=5825302753]
+[22-02-24 21:33:06] - [INFO] - [feed_update: 172 - Update id=70308729 is handled. Duration 125 ms by bot id=5825302753]
+[22-02-24 21:33:09] - [INFO] - [feed_update: 172 - Update id=70308730 is handled. Duration 188 ms by bot id=5825302753]
+[22-02-24 21:38:59] - [INFO] - [start_polling: 554 - Polling stopped]
+[22-02-24 21:38:59] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:39:02] - [INFO] - [start_polling: 527 - Start polling]
+[22-02-24 21:39:02] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:39:05] - [INFO] - [feed_update: 172 - Update id=70308731 is handled. Duration 280 ms by bot id=5825302753]
+[22-02-24 21:39:10] - [INFO] - [feed_update: 172 - Update id=70308732 is handled. Duration 78 ms by bot id=5825302753]
+[22-02-24 21:39:47] - [INFO] - [start_polling: 554 - Polling stopped]
+[22-02-24 21:39:47] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:39:50] - [INFO] - [start_polling: 527 - Start polling]
+[22-02-24 21:39:50] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[22-02-24 21:40:00] - [INFO] - [feed_update: 172 - Update id=70308733 is handled. Duration 203 ms by bot id=5825302753]
+[22-02-24 21:40:04] - [INFO] - [feed_update: 172 - Update id=70308734 is handled. Duration 188 ms by bot id=5825302753]
+[22-02-24 21:40:15] - [INFO] - [feed_update: 172 - Update id=70308735 is handled. Duration 171 ms by bot id=5825302753]
+[22-02-24 21:40:17] - [INFO] - [feed_update: 172 - Update id=70308736 is handled. Duration 266 ms by bot id=5825302753]
+[22-02-24 21:52:56] - [INFO] - [start_polling: 554 - Polling stopped]
+[22-02-24 21:52:56] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 19:49:49] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 19:49:49] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 19:49:59] - [INFO] - [feed_update: 172 - Update id=70308737 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 19:50:04] - [INFO] - [feed_update: 172 - Update id=70308738 is handled. Duration 187 ms by bot id=5825302753]
+[23-02-24 19:50:07] - [INFO] - [feed_update: 172 - Update id=70308739 is handled. Duration 437 ms by bot id=5825302753]
+[23-02-24 19:50:09] - [INFO] - [feed_update: 172 - Update id=70308740 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 19:50:09] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308740 by bot id=5825302753
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType']
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 64, in order_info
+    await process_order(table)
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 48, in process_order
+    if int(status[2]) == user_id:
+       ^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[23-02-24 19:51:28] - [INFO] - [feed_update: 172 - Update id=70308741 is handled. Duration 281 ms by bot id=5825302753]
+[23-02-24 20:36:47] - [INFO] - [feed_update: 172 - Update id=70308742 is handled. Duration 389 ms by bot id=5825302753]
+[23-02-24 20:37:50] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:37:50] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:37:53] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:37:53] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:38:54] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:38:54] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:38:57] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:38:57] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:38:59] - [INFO] - [feed_update: 172 - Update id=70308743 is handled. Duration 296 ms by bot id=5825302753]
+[23-02-24 20:39:02] - [INFO] - [feed_update: 172 - Update id=70308744 is handled. Duration 140 ms by bot id=5825302753]
+[23-02-24 20:39:05] - [INFO] - [feed_update: 172 - Update id=70308745 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:41:09] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:41:09] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:41:12] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:41:12] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:41:14] - [INFO] - [feed_update: 172 - Update id=70308746 is handled. Duration 312 ms by bot id=5825302753]
+[23-02-24 20:41:16] - [INFO] - [feed_update: 172 - Update id=70308747 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 20:41:17] - [INFO] - [feed_update: 172 - Update id=70308748 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:42:32] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:42:32] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:42:35] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:42:35] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:42:38] - [INFO] - [feed_update: 172 - Update id=70308749 is handled. Duration 234 ms by bot id=5825302753]
+[23-02-24 20:42:40] - [INFO] - [feed_update: 172 - Update id=70308750 is handled. Duration 77 ms by bot id=5825302753]
+[23-02-24 20:42:41] - [INFO] - [feed_update: 172 - Update id=70308751 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:49:41] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:49:41] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:49:44] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:49:44] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:49:46] - [INFO] - [feed_update: 172 - Update id=70308752 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 20:49:48] - [INFO] - [feed_update: 172 - Update id=70308753 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 20:49:50] - [INFO] - [feed_update: 172 - Update id=70308754 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:52:56] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:52:56] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:53:00] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:53:00] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:53:02] - [INFO] - [feed_update: 172 - Update id=70308755 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 20:53:05] - [INFO] - [feed_update: 172 - Update id=70308756 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 20:53:07] - [INFO] - [feed_update: 172 - Update id=70308757 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:53:08] - [INFO] - [feed_update: 172 - Update id=70308758 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:53:10] - [INFO] - [feed_update: 172 - Update id=70308759 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:53:11] - [INFO] - [feed_update: 172 - Update id=70308760 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:53:12] - [INFO] - [feed_update: 172 - Update id=70308761 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:54:03] - [INFO] - [feed_update: 172 - Update id=70308762 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 20:54:05] - [INFO] - [feed_update: 172 - Update id=70308763 is handled. Duration 92 ms by bot id=5825302753]
+[23-02-24 20:54:12] - [INFO] - [feed_update: 172 - Update id=70308764 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 20:54:14] - [INFO] - [feed_update: 172 - Update id=70308765 is handled. Duration 656 ms by bot id=5825302753]
+[23-02-24 20:54:17] - [INFO] - [feed_update: 172 - Update id=70308766 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 20:54:26] - [INFO] - [feed_update: 172 - Update id=70308767 is handled. Duration 203 ms by bot id=5825302753]
+[23-02-24 20:55:33] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:55:33] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:55:36] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:55:36] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:55:38] - [INFO] - [feed_update: 172 - Update id=70308768 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 20:55:41] - [INFO] - [feed_update: 172 - Update id=70308769 is handled. Duration 156 ms by bot id=5825302753]
+[23-02-24 20:55:43] - [INFO] - [feed_update: 172 - Update id=70308770 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 20:55:45] - [INFO] - [feed_update: 172 - Update id=70308771 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 20:55:48] - [INFO] - [feed_update: 172 - Update id=70308772 is handled. Duration 155 ms by bot id=5825302753]
+[23-02-24 20:55:55] - [INFO] - [feed_update: 172 - Update id=70308773 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:56:01] - [INFO] - [feed_update: 172 - Update id=70308774 is not handled. Duration 14 ms by bot id=5825302753]
+[23-02-24 20:56:03] - [INFO] - [feed_update: 172 - Update id=70308775 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:56:06] - [INFO] - [feed_update: 172 - Update id=70308776 is handled. Duration 296 ms by bot id=5825302753]
+[23-02-24 20:56:10] - [INFO] - [feed_update: 172 - Update id=70308777 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 20:56:12] - [INFO] - [feed_update: 172 - Update id=70308778 is handled. Duration 500 ms by bot id=5825302753]
+[23-02-24 20:56:13] - [INFO] - [feed_update: 172 - Update id=70308779 is handled. Duration 139 ms by bot id=5825302753]
+[23-02-24 20:56:19] - [INFO] - [feed_update: 172 - Update id=70308780 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 20:56:21] - [INFO] - [feed_update: 172 - Update id=70308781 is handled. Duration 452 ms by bot id=5825302753]
+[23-02-24 20:56:23] - [INFO] - [feed_update: 172 - Update id=70308782 is handled. Duration 297 ms by bot id=5825302753]
+[23-02-24 20:56:30] - [INFO] - [feed_update: 172 - Update id=70308783 is handled. Duration 266 ms by bot id=5825302753]
+[23-02-24 20:56:33] - [INFO] - [feed_update: 172 - Update id=70308784 is handled. Duration 452 ms by bot id=5825302753]
+[23-02-24 20:56:45] - [INFO] - [feed_update: 172 - Update id=70308785 is handled. Duration 187 ms by bot id=5825302753]
+[23-02-24 20:58:47] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 20:58:47] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:58:50] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 20:58:50] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 20:58:52] - [INFO] - [feed_update: 172 - Update id=70308786 is handled. Duration 235 ms by bot id=5825302753]
+[23-02-24 20:58:54] - [INFO] - [feed_update: 172 - Update id=70308787 is handled. Duration 265 ms by bot id=5825302753]
+[23-02-24 20:58:57] - [INFO] - [feed_update: 172 - Update id=70308788 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:59:03] - [INFO] - [feed_update: 172 - Update id=70308789 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:59:04] - [INFO] - [feed_update: 172 - Update id=70308790 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 20:59:05] - [INFO] - [feed_update: 172 - Update id=70308791 is not handled. Duration 16 ms by bot id=5825302753]
+[23-02-24 20:59:06] - [INFO] - [feed_update: 172 - Update id=70308792 is not handled. Duration 15 ms by bot id=5825302753]
+[23-02-24 21:02:09] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:02:09] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:02:12] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:02:13] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:02:14] - [INFO] - [feed_update: 172 - Update id=70308793 is handled. Duration 327 ms by bot id=5825302753]
+[23-02-24 21:02:16] - [INFO] - [feed_update: 172 - Update id=70308794 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 21:02:18] - [INFO] - [feed_update: 172 - Update id=70308795 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:03:26] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:03:26] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:03:29] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:03:29] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:03:33] - [INFO] - [feed_update: 172 - Update id=70308796 is handled. Duration 467 ms by bot id=5825302753]
+[23-02-24 21:03:35] - [INFO] - [feed_update: 172 - Update id=70308797 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 21:03:37] - [INFO] - [feed_update: 172 - Update id=70308798 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:03:39] - [INFO] - [feed_update: 172 - Update id=70308799 is not handled. Duration 16 ms by bot id=5825302753]
+[23-02-24 21:03:40] - [INFO] - [feed_update: 172 - Update id=70308800 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:03:40] - [INFO] - [feed_update: 172 - Update id=70308801 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:03:41] - [INFO] - [feed_update: 172 - Update id=70308802 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:17:05] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:17:05] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:17:08] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:17:08] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:17:12] - [INFO] - [feed_update: 172 - Update id=70308803 is handled. Duration 452 ms by bot id=5825302753]
+[23-02-24 21:17:13] - [INFO] - [feed_update: 172 - Update id=70308804 is handled. Duration 110 ms by bot id=5825302753]
+[23-02-24 21:17:15] - [INFO] - [feed_update: 172 - Update id=70308805 is handled. Duration 281 ms by bot id=5825302753]
+[23-02-24 21:17:22] - [INFO] - [feed_update: 172 - Update id=70308806 is not handled. Duration 16 ms by bot id=5825302753]
+[23-02-24 21:17:22] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308806 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 100, in user_orders
+    await bot.send_message(message.from_user.id, f'{user_orders}')
+                                                    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:18:06] - [INFO] - [feed_update: 172 - Update id=70308807 is not handled. Duration 16 ms by bot id=5825302753]
+[23-02-24 21:18:06] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308807 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 100, in user_orders
+    await bot.send_message(message.from_user.id, f'{user_orders}')
+                                                    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:18:29] - [INFO] - [feed_update: 172 - Update id=70308808 is handled. Duration 264 ms by bot id=5825302753]
+[23-02-24 21:18:31] - [INFO] - [feed_update: 172 - Update id=70308809 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 21:18:33] - [INFO] - [feed_update: 172 - Update id=70308810 is handled. Duration 281 ms by bot id=5825302753]
+[23-02-24 21:18:44] - [INFO] - [feed_update: 172 - Update id=70308811 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:18:44] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308811 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 100, in user_orders
+    await bot.send_message(message.from_user.id, f'{user_orders}')
+                                                    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:19:42] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:19:42] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:19:45] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:19:45] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:19:47] - [INFO] - [feed_update: 172 - Update id=70308812 is handled. Duration 266 ms by bot id=5825302753]
+[23-02-24 21:19:49] - [INFO] - [feed_update: 172 - Update id=70308813 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 21:19:51] - [INFO] - [feed_update: 172 - Update id=70308814 is handled. Duration 202 ms by bot id=5825302753]
+[23-02-24 21:19:53] - [INFO] - [feed_update: 172 - Update id=70308815 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:19:53] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308815 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 100, in user_orders
+    await bot.send_message(message.from_user.id, f'{user_orders[0]}')
+                                                    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:20:57] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:20:58] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:21:01] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:21:01] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:21:05] - [INFO] - [feed_update: 172 - Update id=70308816 is handled. Duration 592 ms by bot id=5825302753]
+[23-02-24 21:21:07] - [INFO] - [feed_update: 172 - Update id=70308817 is handled. Duration 296 ms by bot id=5825302753]
+[23-02-24 21:21:09] - [INFO] - [feed_update: 172 - Update id=70308818 is handled. Duration 530 ms by bot id=5825302753]
+[23-02-24 21:21:11] - [INFO] - [feed_update: 172 - Update id=70308819 is not handled. Duration 16 ms by bot id=5825302753]
+[23-02-24 21:21:11] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308819 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 100, in user_orders
+    await bot.send_message(message.from_user.id, f'{user_orders[0]}')
+                                                    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:23:17] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:23:18] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:23:21] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:23:21] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:23:24] - [INFO] - [feed_update: 172 - Update id=70308820 is handled. Duration 1234 ms by bot id=5825302753]
+[23-02-24 21:23:26] - [INFO] - [feed_update: 172 - Update id=70308821 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 21:23:28] - [INFO] - [feed_update: 172 - Update id=70308822 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:30:30] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:30:31] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:30:34] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:30:34] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:30:37] - [INFO] - [feed_update: 172 - Update id=70308823 is handled. Duration 468 ms by bot id=5825302753]
+[23-02-24 21:30:38] - [INFO] - [feed_update: 172 - Update id=70308824 is not handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 21:30:38] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308824 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 89, in select_order_tables
+    await bot.send_message(message.from_user.id, f'{user_orders[0]}')
+                                                    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:30:40] - [INFO] - [feed_update: 172 - Update id=70308825 is not handled. Duration 14 ms by bot id=5825302753]
+[23-02-24 21:39:12] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:39:12] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:39:15] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:39:15] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:39:24] - [INFO] - [feed_update: 172 - Update id=70308826 is handled. Duration 312 ms by bot id=5825302753]
+[23-02-24 21:39:26] - [INFO] - [feed_update: 172 - Update id=70308827 is handled. Duration 218 ms by bot id=5825302753]
+[23-02-24 21:39:27] - [INFO] - [feed_update: 172 - Update id=70308828 is not handled. Duration 14 ms by bot id=5825302753]
+[23-02-24 21:39:27] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70308828 by bot id=5825302753
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value]
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\handlers\user_info.py", line 93, in user_orders
+    await call.message.answer(f'{user_orders[0]}')
+                                 ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'user_orders' where it is not associated with a value
+[23-02-24 21:41:01] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:41:01] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:41:04] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:41:04] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:41:06] - [INFO] - [feed_update: 172 - Update id=70308829 is handled. Duration 203 ms by bot id=5825302753]
+[23-02-24 21:41:08] - [INFO] - [feed_update: 172 - Update id=70308830 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 21:41:09] - [INFO] - [feed_update: 172 - Update id=70308831 is handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 21:42:00] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:42:00] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:42:03] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:42:03] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:42:05] - [INFO] - [feed_update: 172 - Update id=70308832 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 21:42:07] - [INFO] - [feed_update: 172 - Update id=70308833 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 21:42:08] - [INFO] - [feed_update: 172 - Update id=70308834 is handled. Duration 14 ms by bot id=5825302753]
+[23-02-24 21:42:39] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:42:39] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:42:42] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:42:42] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:42:44] - [INFO] - [feed_update: 172 - Update id=70308835 is handled. Duration 203 ms by bot id=5825302753]
+[23-02-24 21:42:45] - [INFO] - [feed_update: 172 - Update id=70308836 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 21:42:46] - [INFO] - [feed_update: 172 - Update id=70308837 is handled. Duration 77 ms by bot id=5825302753]
+[23-02-24 21:45:11] - [INFO] - [feed_update: 172 - Update id=70308838 is handled. Duration 327 ms by bot id=5825302753]
+[23-02-24 21:45:13] - [INFO] - [feed_update: 172 - Update id=70308839 is handled. Duration 296 ms by bot id=5825302753]
+[23-02-24 21:45:15] - [INFO] - [feed_update: 172 - Update id=70308840 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 21:45:55] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:45:56] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:45:59] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:45:59] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:46:00] - [INFO] - [feed_update: 172 - Update id=70308841 is handled. Duration 235 ms by bot id=5825302753]
+[23-02-24 21:46:02] - [INFO] - [feed_update: 172 - Update id=70308842 is handled. Duration 202 ms by bot id=5825302753]
+[23-02-24 21:46:03] - [INFO] - [feed_update: 172 - Update id=70308843 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 21:46:48] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:46:48] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:46:51] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:46:51] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:46:53] - [INFO] - [feed_update: 172 - Update id=70308844 is handled. Duration 391 ms by bot id=5825302753]
+[23-02-24 21:46:55] - [INFO] - [feed_update: 172 - Update id=70308845 is handled. Duration 157 ms by bot id=5825302753]
+[23-02-24 21:46:56] - [INFO] - [feed_update: 172 - Update id=70308846 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 21:47:35] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:47:35] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:47:38] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:47:38] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:47:42] - [INFO] - [feed_update: 172 - Update id=70308847 is handled. Duration 610 ms by bot id=5825302753]
+[23-02-24 21:47:43] - [INFO] - [feed_update: 172 - Update id=70308848 is handled. Duration 203 ms by bot id=5825302753]
+[23-02-24 21:47:45] - [INFO] - [feed_update: 172 - Update id=70308849 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 21:50:11] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:50:11] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:50:14] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:50:14] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:50:16] - [INFO] - [feed_update: 172 - Update id=70308850 is handled. Duration 358 ms by bot id=5825302753]
+[23-02-24 21:50:18] - [INFO] - [feed_update: 172 - Update id=70308851 is handled. Duration 110 ms by bot id=5825302753]
+[23-02-24 21:50:19] - [INFO] - [feed_update: 172 - Update id=70308852 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 21:54:01] - [INFO] - [feed_update: 172 - Update id=70308853 is handled. Duration 218 ms by bot id=5825302753]
+[23-02-24 21:55:12] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:55:12] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:55:16] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:55:16] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:55:18] - [INFO] - [feed_update: 172 - Update id=70308854 is handled. Duration 390 ms by bot id=5825302753]
+[23-02-24 21:55:19] - [INFO] - [feed_update: 172 - Update id=70308855 is handled. Duration 92 ms by bot id=5825302753]
+[23-02-24 21:55:21] - [INFO] - [feed_update: 172 - Update id=70308856 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 21:57:21] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 21:57:21] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:57:24] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 21:57:24] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 21:57:26] - [INFO] - [feed_update: 172 - Update id=70308857 is handled. Duration 217 ms by bot id=5825302753]
+[23-02-24 21:57:27] - [INFO] - [feed_update: 172 - Update id=70308858 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 21:57:29] - [INFO] - [feed_update: 172 - Update id=70308859 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:06:01] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:06:01] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:06:04] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:06:04] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:06:19] - [INFO] - [feed_update: 172 - Update id=70308860 is handled. Duration 281 ms by bot id=5825302753]
+[23-02-24 22:06:20] - [INFO] - [feed_update: 172 - Update id=70308861 is handled. Duration 156 ms by bot id=5825302753]
+[23-02-24 22:06:23] - [INFO] - [feed_update: 172 - Update id=70308862 is handled. Duration 109 ms by bot id=5825302753]
+[23-02-24 22:06:27] - [INFO] - [feed_update: 172 - Update id=70308863 is handled. Duration 156 ms by bot id=5825302753]
+[23-02-24 22:06:30] - [INFO] - [feed_update: 172 - Update id=70308864 is handled. Duration 202 ms by bot id=5825302753]
+[23-02-24 22:06:34] - [INFO] - [feed_update: 172 - Update id=70308865 is handled. Duration 156 ms by bot id=5825302753]
+[23-02-24 22:06:38] - [INFO] - [feed_update: 172 - Update id=70308866 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:07:23] - [INFO] - [feed_update: 172 - Update id=70308867 is handled. Duration 218 ms by bot id=5825302753]
+[23-02-24 22:07:25] - [INFO] - [feed_update: 172 - Update id=70308868 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:07:27] - [INFO] - [feed_update: 172 - Update id=70308869 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 22:09:21] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:09:21] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:09:24] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:09:24] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:09:27] - [INFO] - [feed_update: 172 - Update id=70308870 is handled. Duration 264 ms by bot id=5825302753]
+[23-02-24 22:09:29] - [INFO] - [feed_update: 172 - Update id=70308871 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:09:32] - [INFO] - [feed_update: 172 - Update id=70308872 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:09:37] - [INFO] - [feed_update: 172 - Update id=70308873 is handled. Duration 109 ms by bot id=5825302753]
+[23-02-24 22:09:39] - [INFO] - [feed_update: 172 - Update id=70308874 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 22:09:42] - [INFO] - [feed_update: 172 - Update id=70308875 is handled. Duration 235 ms by bot id=5825302753]
+[23-02-24 22:32:30] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:32:30] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:32:33] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:32:34] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:32:36] - [INFO] - [feed_update: 172 - Update id=70308876 is handled. Duration 217 ms by bot id=5825302753]
+[23-02-24 22:32:37] - [INFO] - [feed_update: 172 - Update id=70308877 is handled. Duration 110 ms by bot id=5825302753]
+[23-02-24 22:32:40] - [INFO] - [feed_update: 172 - Update id=70308878 is handled. Duration 702 ms by bot id=5825302753]
+[23-02-24 22:32:52] - [INFO] - [feed_update: 172 - Update id=70308879 is handled. Duration 1953 ms by bot id=5825302753]
+[23-02-24 22:35:05] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:35:05] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:35:08] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:35:08] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:35:11] - [INFO] - [feed_update: 172 - Update id=70308880 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 22:35:13] - [INFO] - [feed_update: 172 - Update id=70308881 is handled. Duration 203 ms by bot id=5825302753]
+[23-02-24 22:35:15] - [INFO] - [feed_update: 172 - Update id=70308882 is handled. Duration 1014 ms by bot id=5825302753]
+[23-02-24 22:40:40] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:40:41] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:40:44] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:40:44] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:40:46] - [INFO] - [feed_update: 172 - Update id=70308883 is handled. Duration 235 ms by bot id=5825302753]
+[23-02-24 22:40:48] - [INFO] - [feed_update: 172 - Update id=70308884 is handled. Duration 155 ms by bot id=5825302753]
+[23-02-24 22:40:51] - [INFO] - [feed_update: 172 - Update id=70308885 is handled. Duration 843 ms by bot id=5825302753]
+[23-02-24 22:44:46] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:44:46] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:44:49] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:44:49] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:44:52] - [INFO] - [feed_update: 172 - Update id=70308886 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 22:44:54] - [INFO] - [feed_update: 172 - Update id=70308887 is handled. Duration 187 ms by bot id=5825302753]
+[23-02-24 22:44:56] - [INFO] - [feed_update: 172 - Update id=70308888 is handled. Duration 94 ms by bot id=5825302753]
+[23-02-24 22:45:05] - [INFO] - [feed_update: 172 - Update id=70308889 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:45:06] - [INFO] - [feed_update: 172 - Update id=70308890 is handled. Duration 422 ms by bot id=5825302753]
+[23-02-24 22:45:08] - [INFO] - [feed_update: 172 - Update id=70308891 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 22:45:10] - [INFO] - [feed_update: 172 - Update id=70308892 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 22:45:15] - [INFO] - [feed_update: 172 - Update id=70308893 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:45:19] - [INFO] - [feed_update: 172 - Update id=70308894 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 22:45:28] - [INFO] - [feed_update: 172 - Update id=70308895 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 22:46:12] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:46:12] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:46:15] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:46:15] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:46:19] - [INFO] - [feed_update: 172 - Update id=70308896 is handled. Duration 281 ms by bot id=5825302753]
+[23-02-24 22:46:21] - [INFO] - [feed_update: 172 - Update id=70308897 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 22:46:22] - [INFO] - [feed_update: 172 - Update id=70308898 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 22:46:24] - [INFO] - [feed_update: 172 - Update id=70308899 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:46:26] - [INFO] - [feed_update: 172 - Update id=70308900 is handled. Duration 77 ms by bot id=5825302753]
+[23-02-24 22:46:28] - [INFO] - [feed_update: 172 - Update id=70308901 is handled. Duration 171 ms by bot id=5825302753]
+[23-02-24 22:46:29] - [INFO] - [feed_update: 172 - Update id=70308902 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 22:46:32] - [INFO] - [feed_update: 172 - Update id=70308903 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:46:39] - [INFO] - [feed_update: 172 - Update id=70308904 is handled. Duration 203 ms by bot id=5825302753]
+[23-02-24 22:46:53] - [INFO] - [feed_update: 172 - Update id=70308905 is handled. Duration 264 ms by bot id=5825302753]
+[23-02-24 22:46:57] - [INFO] - [feed_update: 172 - Update id=70308906 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:47:03] - [INFO] - [feed_update: 172 - Update id=70308907 is handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 22:58:13] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 22:58:13] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:58:16] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 22:58:17] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 22:58:20] - [INFO] - [feed_update: 172 - Update id=70308908 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 22:58:27] - [INFO] - [feed_update: 172 - Update id=70308909 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:58:29] - [INFO] - [feed_update: 172 - Update id=70308910 is handled. Duration 297 ms by bot id=5825302753]
+[23-02-24 22:58:34] - [INFO] - [feed_update: 172 - Update id=70308911 is handled. Duration 656 ms by bot id=5825302753]
+[23-02-24 22:58:40] - [INFO] - [feed_update: 172 - Update id=70308912 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:58:48] - [INFO] - [feed_update: 172 - Update id=70308913 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 22:58:50] - [INFO] - [feed_update: 172 - Update id=70308914 is handled. Duration 110 ms by bot id=5825302753]
+[23-02-24 22:58:52] - [INFO] - [feed_update: 172 - Update id=70308915 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 22:58:56] - [INFO] - [feed_update: 172 - Update id=70308916 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:58:57] - [INFO] - [feed_update: 172 - Update id=70308917 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 22:58:59] - [INFO] - [feed_update: 172 - Update id=70308918 is handled. Duration 297 ms by bot id=5825302753]
+[23-02-24 22:59:01] - [INFO] - [feed_update: 172 - Update id=70308919 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 22:59:02] - [INFO] - [feed_update: 172 - Update id=70308920 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 22:59:05] - [INFO] - [feed_update: 172 - Update id=70308921 is handled. Duration 94 ms by bot id=5825302753]
+[23-02-24 22:59:07] - [INFO] - [feed_update: 172 - Update id=70308922 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 22:59:09] - [INFO] - [feed_update: 172 - Update id=70308923 is handled. Duration 407 ms by bot id=5825302753]
+[23-02-24 22:59:12] - [INFO] - [feed_update: 172 - Update id=70308924 is handled. Duration 764 ms by bot id=5825302753]
+[23-02-24 22:59:14] - [INFO] - [feed_update: 172 - Update id=70308925 is handled. Duration 62 ms by bot id=5825302753]
+[23-02-24 22:59:16] - [INFO] - [feed_update: 172 - Update id=70308926 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 22:59:18] - [INFO] - [feed_update: 172 - Update id=70308927 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 22:59:20] - [INFO] - [feed_update: 172 - Update id=70308928 is handled. Duration 266 ms by bot id=5825302753]
+[23-02-24 22:59:21] - [INFO] - [feed_update: 172 - Update id=70308929 is handled. Duration 266 ms by bot id=5825302753]
+[23-02-24 22:59:22] - [INFO] - [feed_update: 172 - Update id=70308930 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 22:59:24] - [INFO] - [feed_update: 172 - Update id=70308931 is handled. Duration 266 ms by bot id=5825302753]
+[23-02-24 22:59:27] - [INFO] - [feed_update: 172 - Update id=70308932 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 22:59:29] - [INFO] - [feed_update: 172 - Update id=70308933 is handled. Duration 265 ms by bot id=5825302753]
+[23-02-24 22:59:34] - [INFO] - [feed_update: 172 - Update id=70308934 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 22:59:44] - [INFO] - [feed_update: 172 - Update id=70308935 is handled. Duration 77 ms by bot id=5825302753]
+[23-02-24 22:59:50] - [INFO] - [feed_update: 172 - Update id=70308936 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 22:59:53] - [INFO] - [feed_update: 172 - Update id=70308937 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 22:59:55] - [INFO] - [feed_update: 172 - Update id=70308938 is handled. Duration 765 ms by bot id=5825302753]
+[23-02-24 23:01:31] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 23:01:31] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:01:34] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 23:01:34] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:01:36] - [INFO] - [feed_update: 172 - Update id=70308939 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 23:01:38] - [INFO] - [feed_update: 172 - Update id=70308940 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 23:01:42] - [INFO] - [feed_update: 172 - Update id=70308941 is handled. Duration 360 ms by bot id=5825302753]
+[23-02-24 23:01:44] - [INFO] - [feed_update: 172 - Update id=70308942 is handled. Duration 546 ms by bot id=5825302753]
+[23-02-24 23:01:48] - [INFO] - [feed_update: 172 - Update id=70308943 is handled. Duration 110 ms by bot id=5825302753]
+[23-02-24 23:01:53] - [INFO] - [feed_update: 172 - Update id=70308944 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 23:01:56] - [INFO] - [feed_update: 172 - Update id=70308945 is handled. Duration 155 ms by bot id=5825302753]
+[23-02-24 23:01:58] - [INFO] - [feed_update: 172 - Update id=70308946 is handled. Duration 514 ms by bot id=5825302753]
+[23-02-24 23:02:00] - [INFO] - [feed_update: 172 - Update id=70308947 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 23:02:02] - [INFO] - [feed_update: 172 - Update id=70308948 is handled. Duration 218 ms by bot id=5825302753]
+[23-02-24 23:02:05] - [INFO] - [feed_update: 172 - Update id=70308949 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 23:02:07] - [INFO] - [feed_update: 172 - Update id=70308950 is handled. Duration 422 ms by bot id=5825302753]
+[23-02-24 23:02:10] - [INFO] - [feed_update: 172 - Update id=70308951 is handled. Duration 78 ms by bot id=5825302753]
+[23-02-24 23:02:12] - [INFO] - [feed_update: 172 - Update id=70308952 is handled. Duration 139 ms by bot id=5825302753]
+[23-02-24 23:02:24] - [INFO] - [feed_update: 172 - Update id=70308953 is handled. Duration 188 ms by bot id=5825302753]
+[23-02-24 23:02:27] - [INFO] - [feed_update: 172 - Update id=70308954 is handled. Duration 108 ms by bot id=5825302753]
+[23-02-24 23:03:12] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 23:03:12] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:03:15] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 23:03:15] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:03:18] - [INFO] - [feed_update: 172 - Update id=70308955 is handled. Duration 297 ms by bot id=5825302753]
+[23-02-24 23:03:22] - [INFO] - [feed_update: 172 - Update id=70308956 is handled. Duration 141 ms by bot id=5825302753]
+[23-02-24 23:03:24] - [INFO] - [feed_update: 172 - Update id=70308957 is handled. Duration 297 ms by bot id=5825302753]
+[23-02-24 23:04:15] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 23:04:15] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:04:38] - [ERROR] - [default_exception_handler: 1771 - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000020330354D10>]
+[23-02-24 23:04:49] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 23:04:49] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:04:49] - [INFO] - [feed_update: 172 - Update id=70308958 is not handled. Duration 14 ms by bot id=5825302753]
+[23-02-24 23:04:49] - [INFO] - [feed_update: 172 - Update id=70308959 is not handled. Duration 14 ms by bot id=5825302753]
+[23-02-24 23:04:53] - [INFO] - [feed_update: 172 - Update id=70308960 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 23:04:55] - [INFO] - [feed_update: 172 - Update id=70308961 is handled. Duration 77 ms by bot id=5825302753]
+[23-02-24 23:04:57] - [INFO] - [feed_update: 172 - Update id=70308962 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 23:04:59] - [INFO] - [feed_update: 172 - Update id=70308963 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 23:05:01] - [INFO] - [feed_update: 172 - Update id=70308964 is handled. Duration 110 ms by bot id=5825302753]
+[23-02-24 23:05:04] - [INFO] - [feed_update: 172 - Update id=70308965 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 23:05:06] - [INFO] - [feed_update: 172 - Update id=70308966 is handled. Duration 312 ms by bot id=5825302753]
+[23-02-24 23:05:28] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 23:05:28] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:05:31] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 23:05:31] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:05:33] - [INFO] - [feed_update: 172 - Update id=70308967 is handled. Duration 375 ms by bot id=5825302753]
+[23-02-24 23:05:36] - [INFO] - [feed_update: 172 - Update id=70308968 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 23:05:38] - [INFO] - [feed_update: 172 - Update id=70308969 is handled. Duration 343 ms by bot id=5825302753]
+[23-02-24 23:05:39] - [INFO] - [feed_update: 172 - Update id=70308970 is handled. Duration 250 ms by bot id=5825302753]
+[23-02-24 23:05:43] - [INFO] - [feed_update: 172 - Update id=70308971 is handled. Duration 93 ms by bot id=5825302753]
+[23-02-24 23:05:57] - [INFO] - [feed_update: 172 - Update id=70308972 is handled. Duration 156 ms by bot id=5825302753]
+[23-02-24 23:07:21] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 23:07:21] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:07:24] - [INFO] - [start_polling: 527 - Start polling]
+[23-02-24 23:07:25] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[23-02-24 23:07:27] - [INFO] - [feed_update: 172 - Update id=70308973 is handled. Duration 421 ms by bot id=5825302753]
+[23-02-24 23:07:30] - [INFO] - [feed_update: 172 - Update id=70308974 is handled. Duration 233 ms by bot id=5825302753]
+[23-02-24 23:07:32] - [INFO] - [feed_update: 172 - Update id=70308975 is handled. Duration 485 ms by bot id=5825302753]
+[23-02-24 23:07:34] - [INFO] - [feed_update: 172 - Update id=70308976 is handled. Duration 453 ms by bot id=5825302753]
+[23-02-24 23:07:37] - [INFO] - [feed_update: 172 - Update id=70308977 is handled. Duration 125 ms by bot id=5825302753]
+[23-02-24 23:07:40] - [INFO] - [feed_update: 172 - Update id=70308978 is not handled. Duration 0 ms by bot id=5825302753]
+[23-02-24 23:18:30] - [INFO] - [start_polling: 554 - Polling stopped]
+[23-02-24 23:18:30] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[24-02-24 17:34:09] - [INFO] - [start_polling: 527 - Start polling]
+[24-02-24 17:34:10] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[24-02-24 17:56:35] - [INFO] - [feed_update: 172 - Update id=70308980 is handled. Duration 5828 ms by bot id=5825302753]
+[24-02-24 17:56:35] - [INFO] - [feed_update: 172 - Update id=70308979 is handled. Duration 6703 ms by bot id=5825302753]
+[24-02-24 17:57:08] - [INFO] - [feed_update: 172 - Update id=70308981 is handled. Duration 6546 ms by bot id=5825302753]
+[24-02-24 17:57:09] - [INFO] - [feed_update: 172 - Update id=70308982 is handled. Duration 296 ms by bot id=5825302753]
+[24-02-24 17:57:12] - [INFO] - [feed_update: 172 - Update id=70308983 is handled. Duration 437 ms by bot id=5825302753]
+[24-02-24 18:03:41] - [INFO] - [feed_update: 172 - Update id=70308984 is handled. Duration 23000 ms by bot id=5825302753]
+[24-02-24 18:25:58] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error]
+[24-02-24 18:25:58] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[24-02-24 18:26:00] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]]
+[24-02-24 18:26:00] - [WARNING] - [_listen_updates: 221 - Sleep for 1.252528 seconds and try again... (tryings = 1, bot id = 5825302753)]
+[24-02-24 18:26:01] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]]
+[24-02-24 18:26:01] - [WARNING] - [_listen_updates: 221 - Sleep for 1.809019 seconds and try again... (tryings = 2, bot id = 5825302753)]
+[24-02-24 18:26:03] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]]
+[24-02-24 18:26:03] - [WARNING] - [_listen_updates: 221 - Sleep for 2.370888 seconds and try again... (tryings = 3, bot id = 5825302753)]
+[24-02-24 18:26:16] - [INFO] - [_listen_updates: 233 - Connection established (tryings = 4, bot id = 5825302753)]
+[24-02-24 18:30:21] - [INFO] - [start_polling: 554 - Polling stopped]
+[24-02-24 18:30:21] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[24-02-24 18:30:40] - [ERROR] - [default_exception_handler: 1771 - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000170B58D3FD0>]
+[24-02-24 18:30:46] - [ERROR] - [default_exception_handler: 1771 - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000025CA8934190>]
+[24-02-24 18:31:15] - [INFO] - [start_polling: 527 - Start polling]
+[24-02-24 18:31:15] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[24-02-24 18:31:31] - [INFO] - [feed_update: 172 - Update id=70308985 is handled. Duration 11968 ms by bot id=5825302753]
+[24-02-24 18:31:46] - [INFO] - [feed_update: 172 - Update id=70308986 is handled. Duration 296 ms by bot id=5825302753]
+[24-02-24 18:31:46] - [INFO] - [feed_update: 172 - Update id=70308987 is handled. Duration 250 ms by bot id=5825302753]
+[24-02-24 18:31:53] - [INFO] - [feed_update: 172 - Update id=70308988 is handled. Duration 125 ms by bot id=5825302753]
+[24-02-24 18:32:59] - [INFO] - [feed_update: 172 - Update id=70308989 is handled. Duration 921 ms by bot id=5825302753]
+[24-02-24 18:36:14] - [INFO] - [feed_update: 172 - Update id=70308990 is handled. Duration 1250 ms by bot id=5825302753]
+[24-02-24 18:36:37] - [INFO] - [feed_update: 172 - Update id=70308991 is handled. Duration 358 ms by bot id=5825302753]
+[24-02-24 18:36:47] - [INFO] - [feed_update: 172 - Update id=70308992 is handled. Duration 1000 ms by bot id=5825302753]
+[24-02-24 18:36:55] - [INFO] - [feed_update: 172 - Update id=70308993 is handled. Duration 359 ms by bot id=5825302753]
+[24-02-24 18:37:03] - [INFO] - [feed_update: 172 - Update id=70308994 is handled. Duration 187 ms by bot id=5825302753]
+[24-02-24 18:37:08] - [INFO] - [feed_update: 172 - Update id=70308995 is handled. Duration 218 ms by bot id=5825302753]
+[24-02-24 18:37:14] - [INFO] - [feed_update: 172 - Update id=70308996 is handled. Duration 312 ms by bot id=5825302753]
+[24-02-24 18:37:19] - [INFO] - [feed_update: 172 - Update id=70308997 is handled. Duration 703 ms by bot id=5825302753]
+[24-02-24 18:37:27] - [INFO] - [feed_update: 172 - Update id=70308998 is handled. Duration 125 ms by bot id=5825302753]
+[24-02-24 18:37:32] - [INFO] - [feed_update: 172 - Update id=70308999 is handled. Duration 655 ms by bot id=5825302753]
+[24-02-24 18:37:41] - [INFO] - [feed_update: 172 - Update id=70309000 is handled. Duration 625 ms by bot id=5825302753]
+[24-02-24 18:37:45] - [INFO] - [feed_update: 172 - Update id=70309001 is handled. Duration 342 ms by bot id=5825302753]
+[24-02-24 18:37:50] - [INFO] - [feed_update: 172 - Update id=70309002 is handled. Duration 125 ms by bot id=5825302753]
+[24-02-24 18:37:58] - [INFO] - [feed_update: 172 - Update id=70309003 is handled. Duration 156 ms by bot id=5825302753]
+[24-02-24 18:38:02] - [INFO] - [feed_update: 172 - Update id=70309004 is handled. Duration 281 ms by bot id=5825302753]
+[24-02-24 18:38:25] - [INFO] - [feed_update: 172 - Update id=70309005 is handled. Duration 312 ms by bot id=5825302753]
+[24-02-24 18:38:31] - [INFO] - [feed_update: 172 - Update id=70309006 is handled. Duration 766 ms by bot id=5825302753]
+[24-02-24 18:38:37] - [INFO] - [feed_update: 172 - Update id=70309007 is handled. Duration 1578 ms by bot id=5825302753]
+[24-02-24 18:38:43] - [INFO] - [feed_update: 172 - Update id=70309008 is handled. Duration 2875 ms by bot id=5825302753]
+[24-02-24 18:38:45] - [INFO] - [feed_update: 172 - Update id=70309009 is handled. Duration 2422 ms by bot id=5825302753]
+[24-02-24 18:38:57] - [INFO] - [feed_update: 172 - Update id=70309010 is handled. Duration 5062 ms by bot id=5825302753]
+[24-02-24 18:39:05] - [INFO] - [feed_update: 172 - Update id=70309011 is handled. Duration 797 ms by bot id=5825302753]
+[24-02-24 21:08:25] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно]
+[24-02-24 21:08:25] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[24-02-24 21:08:37] - [INFO] - [_listen_updates: 233 - Connection established (tryings = 1, bot id = 5825302753)]
+[25-02-24 10:05:28] - [INFO] - [start_polling: 527 - Start polling]
+[25-02-24 10:05:28] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[25-02-24 10:05:43] - [INFO] - [feed_update: 172 - Update id=70309012 is handled. Duration 264 ms by bot id=5825302753]
+[25-02-24 15:52:49] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error]
+[25-02-24 15:52:49] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[25-02-24 15:53:00] - [INFO] - [_listen_updates: 233 - Connection established (tryings = 1, bot id = 5825302753)]
+[25-02-24 19:48:12] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error]
+[25-02-24 19:48:12] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[25-02-24 19:48:24] - [INFO] - [_listen_updates: 233 - Connection established (tryings = 1, bot id = 5825302753)]
+[26-02-24 21:00:01] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 21:00:01] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 21:01:59] - [INFO] - [feed_update: 172 - Update id=70309013 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 21:02:02] - [INFO] - [feed_update: 172 - Update id=70309014 is handled. Duration 312 ms by bot id=5825302753]
+[26-02-24 21:02:05] - [INFO] - [feed_update: 172 - Update id=70309015 is handled. Duration 733 ms by bot id=5825302753]
+[26-02-24 21:02:09] - [INFO] - [feed_update: 172 - Update id=70309016 is handled. Duration 312 ms by bot id=5825302753]
+[26-02-24 21:02:19] - [INFO] - [feed_update: 172 - Update id=70309017 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 21:02:26] - [INFO] - [feed_update: 172 - Update id=70309018 is handled. Duration 155 ms by bot id=5825302753]
+[26-02-24 21:02:34] - [INFO] - [feed_update: 172 - Update id=70309019 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 21:02:36] - [INFO] - [feed_update: 172 - Update id=70309020 is handled. Duration 94 ms by bot id=5825302753]
+[26-02-24 21:02:41] - [INFO] - [feed_update: 172 - Update id=70309021 is handled. Duration 202 ms by bot id=5825302753]
+[26-02-24 21:02:47] - [INFO] - [feed_update: 172 - Update id=70309022 is handled. Duration 375 ms by bot id=5825302753]
+[26-02-24 21:02:49] - [INFO] - [feed_update: 172 - Update id=70309023 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 21:14:17] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 21:14:17] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2702)]
+[26-02-24 21:14:17] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[26-02-24 21:14:17] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 21:55:14] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 21:55:14] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 21:55:21] - [INFO] - [feed_update: 172 - Update id=70309024 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 21:55:26] - [INFO] - [feed_update: 172 - Update id=70309025 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 21:55:31] - [INFO] - [feed_update: 172 - Update id=70309026 is handled. Duration 328 ms by bot id=5825302753]
+[26-02-24 21:55:33] - [INFO] - [feed_update: 172 - Update id=70309027 is handled. Duration 297 ms by bot id=5825302753]
+[26-02-24 21:55:41] - [INFO] - [feed_update: 172 - Update id=70309028 is handled. Duration 77 ms by bot id=5825302753]
+[26-02-24 21:55:51] - [INFO] - [feed_update: 172 - Update id=70309029 is handled. Duration 94 ms by bot id=5825302753]
+[26-02-24 21:56:05] - [INFO] - [feed_update: 172 - Update id=70309030 is handled. Duration 188 ms by bot id=5825302753]
+[26-02-24 21:56:14] - [INFO] - [feed_update: 172 - Update id=70309031 is handled. Duration 203 ms by bot id=5825302753]
+[26-02-24 21:56:17] - [INFO] - [feed_update: 172 - Update id=70309032 is handled. Duration 125 ms by bot id=5825302753]
+[26-02-24 21:56:24] - [INFO] - [feed_update: 172 - Update id=70309033 is handled. Duration 155 ms by bot id=5825302753]
+[26-02-24 21:56:46] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 21:56:46] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 21:56:49] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 21:56:49] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 21:57:26] - [INFO] - [feed_update: 172 - Update id=70309034 is handled. Duration 453 ms by bot id=5825302753]
+[26-02-24 21:57:29] - [INFO] - [feed_update: 172 - Update id=70309035 is handled. Duration 125 ms by bot id=5825302753]
+[26-02-24 21:57:31] - [INFO] - [feed_update: 172 - Update id=70309036 is handled. Duration 421 ms by bot id=5825302753]
+[26-02-24 21:57:33] - [INFO] - [feed_update: 172 - Update id=70309037 is handled. Duration 593 ms by bot id=5825302753]
+[26-02-24 21:57:34] - [INFO] - [feed_update: 172 - Update id=70309038 is handled. Duration 389 ms by bot id=5825302753]
+[26-02-24 21:57:40] - [INFO] - [feed_update: 172 - Update id=70309039 is handled. Duration 78 ms by bot id=5825302753]
+[26-02-24 21:57:49] - [INFO] - [feed_update: 172 - Update id=70309040 is handled. Duration 188 ms by bot id=5825302753]
+[26-02-24 22:05:24] - [ERROR] - [_listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected]
+[26-02-24 22:05:24] - [WARNING] - [_listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 5825302753)]
+[26-02-24 22:05:36] - [INFO] - [_listen_updates: 233 - Connection established (tryings = 1, bot id = 5825302753)]
+[26-02-24 22:05:39] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 22:05:39] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:05:42] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 22:05:43] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:05:45] - [INFO] - [feed_update: 172 - Update id=70309041 is handled. Duration 375 ms by bot id=5825302753]
+[26-02-24 22:05:48] - [INFO] - [feed_update: 172 - Update id=70309042 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 22:05:49] - [INFO] - [feed_update: 172 - Update id=70309043 is handled. Duration 421 ms by bot id=5825302753]
+[26-02-24 22:05:52] - [INFO] - [feed_update: 172 - Update id=70309044 is not handled. Duration 14 ms by bot id=5825302753]
+[26-02-24 22:05:52] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70309044 by bot id=5825302753
+TypeError: clear() got multiple values for argument 'bot']
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+                 ^^^^^^^^^
+TypeError: clear() got multiple values for argument 'bot'
+[26-02-24 22:07:26] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 22:07:27] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:07:29] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 22:07:30] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:07:33] - [INFO] - [feed_update: 172 - Update id=70309045 is handled. Duration 281 ms by bot id=5825302753]
+[26-02-24 22:07:35] - [INFO] - [feed_update: 172 - Update id=70309046 is handled. Duration 108 ms by bot id=5825302753]
+[26-02-24 22:07:38] - [INFO] - [feed_update: 172 - Update id=70309047 is not handled. Duration 0 ms by bot id=5825302753]
+[26-02-24 22:07:38] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70309047 by bot id=5825302753
+TypeError: clear() got multiple values for argument 'bot']
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+                 ^^^^^^^^^
+TypeError: clear() got multiple values for argument 'bot'
+[26-02-24 22:10:51] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 22:10:51] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:10:54] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 22:10:54] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:10:56] - [INFO] - [feed_update: 172 - Update id=70309048 is handled. Duration 202 ms by bot id=5825302753]
+[26-02-24 22:10:58] - [INFO] - [feed_update: 172 - Update id=70309049 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 22:11:01] - [INFO] - [feed_update: 172 - Update id=70309050 is not handled. Duration 0 ms by bot id=5825302753]
+[26-02-24 22:11:01] - [ERROR] - [_process_update: 315 - Cause exception while process update id=70309050 by bot id=5825302753
+TypeError: clear() got multiple values for argument 'state']
+Traceback (most recent call last):
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\tele_bot\pythonProject\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+                 ^^^^^^^^^
+TypeError: clear() got multiple values for argument 'state'
+[26-02-24 22:13:47] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 22:13:48] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:13:50] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 22:13:51] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:13:53] - [INFO] - [feed_update: 172 - Update id=70309051 is handled. Duration 328 ms by bot id=5825302753]
+[26-02-24 22:13:55] - [INFO] - [feed_update: 172 - Update id=70309052 is handled. Duration 125 ms by bot id=5825302753]
+[26-02-24 22:13:57] - [INFO] - [feed_update: 172 - Update id=70309053 is handled. Duration 375 ms by bot id=5825302753]
+[26-02-24 22:13:58] - [INFO] - [feed_update: 172 - Update id=70309054 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 22:14:01] - [INFO] - [feed_update: 172 - Update id=70309055 is handled. Duration 109 ms by bot id=5825302753]
+[26-02-24 22:14:07] - [INFO] - [feed_update: 172 - Update id=70309056 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:14:09] - [INFO] - [feed_update: 172 - Update id=70309057 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 22:14:10] - [INFO] - [feed_update: 172 - Update id=70309058 is handled. Duration 312 ms by bot id=5825302753]
+[26-02-24 22:14:14] - [INFO] - [feed_update: 172 - Update id=70309059 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 22:14:16] - [INFO] - [feed_update: 172 - Update id=70309060 is handled. Duration 139 ms by bot id=5825302753]
+[26-02-24 22:14:17] - [INFO] - [feed_update: 172 - Update id=70309061 is handled. Duration 438 ms by bot id=5825302753]
+[26-02-24 22:14:19] - [INFO] - [feed_update: 172 - Update id=70309062 is handled. Duration 280 ms by bot id=5825302753]
+[26-02-24 22:14:20] - [INFO] - [feed_update: 172 - Update id=70309063 is handled. Duration 218 ms by bot id=5825302753]
+[26-02-24 22:14:22] - [INFO] - [feed_update: 172 - Update id=70309064 is handled. Duration 265 ms by bot id=5825302753]
+[26-02-24 22:14:23] - [INFO] - [feed_update: 172 - Update id=70309065 is handled. Duration 78 ms by bot id=5825302753]
+[26-02-24 22:14:26] - [INFO] - [feed_update: 172 - Update id=70309066 is handled. Duration 171 ms by bot id=5825302753]
+[26-02-24 22:14:28] - [INFO] - [feed_update: 172 - Update id=70309067 is handled. Duration 78 ms by bot id=5825302753]
+[26-02-24 22:14:32] - [INFO] - [feed_update: 172 - Update id=70309068 is handled. Duration 328 ms by bot id=5825302753]
+[26-02-24 22:14:33] - [INFO] - [feed_update: 172 - Update id=70309069 is handled. Duration 250 ms by bot id=5825302753]
+[26-02-24 22:14:35] - [INFO] - [feed_update: 172 - Update id=70309070 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 22:14:37] - [INFO] - [feed_update: 172 - Update id=70309071 is handled. Duration 485 ms by bot id=5825302753]
+[26-02-24 22:14:38] - [INFO] - [feed_update: 172 - Update id=70309072 is handled. Duration 125 ms by bot id=5825302753]
+[26-02-24 22:14:41] - [INFO] - [feed_update: 172 - Update id=70309073 is handled. Duration 203 ms by bot id=5825302753]
+[26-02-24 22:14:43] - [INFO] - [feed_update: 172 - Update id=70309074 is handled. Duration 125 ms by bot id=5825302753]
+[26-02-24 22:14:47] - [INFO] - [feed_update: 172 - Update id=70309075 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:14:53] - [INFO] - [feed_update: 172 - Update id=70309076 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 22:15:08] - [INFO] - [feed_update: 172 - Update id=70309077 is handled. Duration 281 ms by bot id=5825302753]
+[26-02-24 22:15:39] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 22:15:39] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:15:42] - [INFO] - [start_polling: 527 - Start polling]
+[26-02-24 22:15:42] - [INFO] - [_polling: 341 - Run polling for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
+[26-02-24 22:15:45] - [INFO] - [feed_update: 172 - Update id=70309078 is handled. Duration 250 ms by bot id=5825302753]
+[26-02-24 22:15:48] - [INFO] - [feed_update: 172 - Update id=70309079 is handled. Duration 108 ms by bot id=5825302753]
+[26-02-24 22:15:50] - [INFO] - [feed_update: 172 - Update id=70309080 is handled. Duration 358 ms by bot id=5825302753]
+[26-02-24 22:15:52] - [INFO] - [feed_update: 172 - Update id=70309081 is handled. Duration 313 ms by bot id=5825302753]
+[26-02-24 22:15:53] - [INFO] - [feed_update: 172 - Update id=70309082 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:15:56] - [INFO] - [feed_update: 172 - Update id=70309083 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 22:15:58] - [INFO] - [feed_update: 172 - Update id=70309084 is handled. Duration 139 ms by bot id=5825302753]
+[26-02-24 22:16:01] - [INFO] - [feed_update: 172 - Update id=70309085 is handled. Duration 360 ms by bot id=5825302753]
+[26-02-24 22:16:02] - [INFO] - [feed_update: 172 - Update id=70309086 is handled. Duration 328 ms by bot id=5825302753]
+[26-02-24 22:16:04] - [INFO] - [feed_update: 172 - Update id=70309087 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 22:16:08] - [INFO] - [feed_update: 172 - Update id=70309088 is handled. Duration 406 ms by bot id=5825302753]
+[26-02-24 22:16:11] - [INFO] - [feed_update: 172 - Update id=70309089 is handled. Duration 109 ms by bot id=5825302753]
+[26-02-24 22:16:13] - [INFO] - [feed_update: 172 - Update id=70309090 is handled. Duration 484 ms by bot id=5825302753]
+[26-02-24 22:16:15] - [INFO] - [feed_update: 172 - Update id=70309091 is handled. Duration 390 ms by bot id=5825302753]
+[26-02-24 22:16:16] - [INFO] - [feed_update: 172 - Update id=70309092 is handled. Duration 391 ms by bot id=5825302753]
+[26-02-24 22:16:18] - [INFO] - [feed_update: 172 - Update id=70309093 is handled. Duration 578 ms by bot id=5825302753]
+[26-02-24 22:16:20] - [INFO] - [feed_update: 172 - Update id=70309094 is handled. Duration 203 ms by bot id=5825302753]
+[26-02-24 22:16:23] - [INFO] - [feed_update: 172 - Update id=70309095 is handled. Duration 250 ms by bot id=5825302753]
+[26-02-24 22:16:25] - [INFO] - [feed_update: 172 - Update id=70309096 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 22:16:29] - [INFO] - [feed_update: 172 - Update id=70309097 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:16:33] - [INFO] - [feed_update: 172 - Update id=70309098 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 22:16:35] - [INFO] - [feed_update: 172 - Update id=70309099 is handled. Duration 328 ms by bot id=5825302753]
+[26-02-24 22:16:37] - [INFO] - [feed_update: 172 - Update id=70309100 is handled. Duration 218 ms by bot id=5825302753]
+[26-02-24 22:16:38] - [INFO] - [feed_update: 172 - Update id=70309101 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:16:40] - [INFO] - [feed_update: 172 - Update id=70309102 is handled. Duration 109 ms by bot id=5825302753]
+[26-02-24 22:16:43] - [INFO] - [feed_update: 172 - Update id=70309103 is handled. Duration 171 ms by bot id=5825302753]
+[26-02-24 22:16:50] - [INFO] - [feed_update: 172 - Update id=70309104 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 22:16:53] - [INFO] - [feed_update: 172 - Update id=70309105 is handled. Duration 389 ms by bot id=5825302753]
+[26-02-24 22:16:55] - [INFO] - [feed_update: 172 - Update id=70309106 is handled. Duration 375 ms by bot id=5825302753]
+[26-02-24 22:16:56] - [INFO] - [feed_update: 172 - Update id=70309107 is handled. Duration 281 ms by bot id=5825302753]
+[26-02-24 22:16:58] - [INFO] - [feed_update: 172 - Update id=70309108 is handled. Duration 438 ms by bot id=5825302753]
+[26-02-24 22:17:00] - [INFO] - [feed_update: 172 - Update id=70309109 is handled. Duration 110 ms by bot id=5825302753]
+[26-02-24 22:17:02] - [INFO] - [feed_update: 172 - Update id=70309110 is handled. Duration 140 ms by bot id=5825302753]
+[26-02-24 22:17:04] - [INFO] - [feed_update: 172 - Update id=70309111 is handled. Duration 530 ms by bot id=5825302753]
+[26-02-24 22:17:08] - [INFO] - [feed_update: 172 - Update id=70309112 is handled. Duration 405 ms by bot id=5825302753]
+[26-02-24 22:17:55] - [INFO] - [feed_update: 172 - Update id=70309113 is handled. Duration 296 ms by bot id=5825302753]
+[26-02-24 22:17:57] - [INFO] - [feed_update: 172 - Update id=70309114 is handled. Duration 421 ms by bot id=5825302753]
+[26-02-24 22:18:01] - [INFO] - [feed_update: 172 - Update id=70309115 is handled. Duration 953 ms by bot id=5825302753]
+[26-02-24 22:18:03] - [INFO] - [feed_update: 172 - Update id=70309116 is handled. Duration 313 ms by bot id=5825302753]
+[26-02-24 22:18:07] - [INFO] - [feed_update: 172 - Update id=70309117 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:18:10] - [INFO] - [feed_update: 172 - Update id=70309118 is handled. Duration 156 ms by bot id=5825302753]
+[26-02-24 22:18:12] - [INFO] - [feed_update: 172 - Update id=70309119 is handled. Duration 125 ms by bot id=5825302753]
+[26-02-24 22:18:15] - [INFO] - [feed_update: 172 - Update id=70309120 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:18:18] - [INFO] - [feed_update: 172 - Update id=70309121 is handled. Duration 93 ms by bot id=5825302753]
+[26-02-24 22:18:21] - [INFO] - [feed_update: 172 - Update id=70309122 is handled. Duration 343 ms by bot id=5825302753]
+[26-02-24 22:18:24] - [INFO] - [feed_update: 172 - Update id=70309123 is handled. Duration 531 ms by bot id=5825302753]
+[26-02-24 22:18:27] - [INFO] - [feed_update: 172 - Update id=70309124 is handled. Duration 187 ms by bot id=5825302753]
+[26-02-24 22:28:27] - [INFO] - [start_polling: 554 - Polling stopped]
+[26-02-24 22:28:27] - [INFO] - [_polling: 359 - Polling stopped for bot @viknasvit_bot id=5825302753 - 'Бот фірми "ВікнаСвіт"']
